@@ -1,0 +1,171 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+
+}
+hr{
+
+      border-style: none;
+      border-top: dotted;
+      border-width: 10px;
+      border-color: grey;
+margin-top:50px;
+margin-bottom:50px;
+      width: 4%;
+}
+h1 {font-size:5.625rem;
+margin:50px auto 0 auto;
+color:#66BFBF;
+
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2 {font-size:2.5rem;
+  color:#66BFBF;
+  font-family: 'Anonymous Pro', monospace;
+
+}
+h3
+{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+  text-decoration: none;
+}
+
+.para1{
+  margin-top:0;
+  font-size:2.5rem;
+  font-weight: normal;
+
+}
+.div1 {
+  padding-top: 100px;
+  background-color: #e4f9f5;
+  position: relative;
+}
+
+.topcloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.heading1 {
+  margin-top: 0;
+}
+.profilepic
+{
+  border-radius:100%;
+  width:200px;
+  height:200px;
+}
+.skillimage1
+{border-radius:100%;
+  width:150px;
+  height:150px;
+  float:left;
+  margin-right:30px;
+}
+.skill-row
+{width:50%;
+margin:100px auto 100px auto;
+
+text-align: left;
+line-height: 2;}
+.skillimage2
+{border-radius:100%;
+  width:150px;
+  height:150px;
+
+  margin-left:30px;
+  float:right;
+}
+.middle-container {
+
+}
+.intro
+{
+  color:#40514E;
+
+}
+.para2
+{
+  text-align:left;
+  line-height: 2;
+
+
+}
+
+.para3
+
+  {
+    text-align:left;
+    line-height: 2;
+
+
+  }
+
+.footer-link1
+{color:#11999e;
+
+}
+.footer-link2
+{color:#11999e;
+margin-left: 15px;
+}
+.footer-link3
+{color:#11999e;
+margin-left: 15px;
+}
+.bottom-container {
+background-color: #66bfbf;
+padding:20px;
+}
+.para4{
+  margin-top:50px;
+}
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.copyright
+{
+  color:#eaf6f6;
+}
+.BUTTON-CRH {
+  background-color: #3d94f6; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.BUTTON-CRH:hover
+{  background-color: #1e62d0; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+
+}
