@@ -6,8 +6,8 @@ body {
 }
 hr{
 
-      border-style: none;
-      border-top: dotted;
+      border-style: dotted;
+      border-bottom: none ;
       border-width: 10px;
       border-color: grey;
 margin-top:50px;
@@ -35,7 +35,9 @@ a{
   color:#11999E;
   text-decoration: none;
 }
-
+a:hover{
+  color:#eaf6f6;
+}
 .para1{
   margin-top:0;
   font-size:2.5rem;
@@ -95,6 +97,8 @@ line-height: 2;}
 .intro
 {
   color:#40514E;
+  margin:50px auto ;
+  width:40%;
 
 }
 .para2
@@ -131,7 +135,8 @@ background-color: #66bfbf;
 padding:20px;
 }
 .para4{
-  margin-top:50px;
+  margin:50px auto ;
+  width:40%;
 }
 .bottomcloud {
   position: absolute;
@@ -141,7 +146,10 @@ padding:20px;
 .copyright
 {
   color:#eaf6f6;
+  font-size: 0.75rem;
+  padding:10px 0 15px 0;
 }
+
 .BUTTON-CRH {
   background-color: #3d94f6; /* Green */
   border: none;
@@ -154,6 +162,7 @@ padding:20px;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 12px;
+  margin-bottom:20px;
 }
 .BUTTON-CRH:hover
 {  background-color: #1e62d0; /* Green */
@@ -167,5 +176,6 @@ padding:20px;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 12px;
+  margin-bottom:20px;
 
 }
